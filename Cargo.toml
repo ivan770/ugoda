@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "crates/ugoda_raft",
+    "crates/ugoda_vecmap"
+]
